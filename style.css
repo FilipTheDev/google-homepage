@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    
+}
+
+li {
+    /* float: left;
+    margin-left: 10px;
+    font-size: small; */
+    display: inline;
+    float: left;
+}
+
+a {
+    padding: 8px;
+}
+
+main {
+    width: 900px;
+    height: 400px;
+    margin: auto;
+    margin-top: 20px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+#googleIcon {
+    align-content: center;
+
+}
+
+footer {
+
+}
