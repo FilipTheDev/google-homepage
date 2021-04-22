@@ -1,38 +1,68 @@
-body {
-    margin: 0;
-    padding: 0;
+#google {
+  width: 450px;
+  height: 190px;
+  margin-top: 107px;
+  margin-left: 460px;
 }
 
-nav {
-    
+input {
+  background-image: url(material-design-icons/mic.png);
+  background-position: right center;
+  background-size: 40px 43px;
+  background-repeat: no-repeat;
+  outline: none;
+  padding: 20px;
+  font-size: 20px;
+  border: 1.3px solid black;
+  width: 570px;
+  height: 48px;
+  margin-left: 400px;
+  border-radius: 100px;
 }
 
-li {
-    /* float: left;
-    margin-left: 10px;
-    font-size: small; */
-    display: inline;
-    float: left;
+#circle {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  background-image: url(material-design-icons/Jas.jpg);
+  background-size: 100% 100%;
+  margin-left: 1300px;
+  margin-top: -335px;
 }
 
-a {
-    padding: 8px;
+#appsIcon {
+  width: 20px;
+  height: 24px;
+  margin-left: 1256px;
+  margin-top: -27px;
 }
 
-main {
-    width: 900px;
-    height: 400px;
-    margin: auto;
-    margin-top: 20px;
-    border: solid 2px black;
-    align-items: center;
+#images {
+  margin-left: 1185px;
+  margin-top: -25px;
 }
 
-#googleIcon {
-    align-content: center;
-
+#gmail {
+  margin-left: 1128px;
+  margin-top: -33px;
 }
 
-footer {
+input:focus::placeholder {
+  visibility: hidden;
+}
 
+.buttons {
+  margin-top: 300px;
+  margin-left: 400px;
+  height: 40px;
+  width: 140px;
+  border: none;
+}
+
+.firstBut {
+  margin-left: 530px;
+}
+
+.secondBut {
+  margin-left: 13px;
 }
