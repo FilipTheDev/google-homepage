@@ -1,1 +1,1 @@
-I learned how to position elements and practise with CSS
+I learned how to position elements and practice with CSS
